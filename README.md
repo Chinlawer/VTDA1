@@ -75,8 +75,6 @@ python main.py
 
 You can change session_settings.py and args to run in other datasets.
 
-## Acknowledgement
-Our codes are built on [FILP-3D](https://github.com/HIT-leaderone/FILP-3D)
 
 
 
